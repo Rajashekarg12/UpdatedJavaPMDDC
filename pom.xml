@@ -32,6 +32,9 @@
                <failOnViolation>false</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>true</printFailingErrors>
+                <rulesets>
+                  <ruleset>PlsqlRule.xml</ruleset>
+               </rulesets>
                
             </configuration>
             <executions>

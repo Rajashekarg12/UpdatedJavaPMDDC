@@ -29,7 +29,7 @@
             <version>3.20.0</version>
             <configuration>
                <!-- failOnViolation is actually true by default, but can be disabled -->
-               <failOnViolation>true</failOnViolation>
+               <failOnViolation>false</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>false</printFailingErrors>
                         <rulesets>

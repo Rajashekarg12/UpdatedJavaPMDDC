@@ -32,9 +32,7 @@
                <failOnViolation>false</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>true</printFailingErrors>
-               <rulesets>
-                  <ruleset>JavaRule.xml</ruleset>
-               </rulesets>
+               
             </configuration>
             <executions>
                <execution>

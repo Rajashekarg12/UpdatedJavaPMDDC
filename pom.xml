@@ -29,14 +29,13 @@
             <version>3.20.0</version>
             <configuration>
                <!-- failOnViolation is actually true by default, but can be disabled -->
-               <failOnViolation>false</failOnViolation>
+               <failOnViolation>true</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>false</printFailingErrors>
-           <minimumPriority>2</minimumPriority>
-                <rulesets>
+                        <rulesets>
                   <ruleset>JavaRule.xml</ruleset>
                </rulesets>
-                           </configuration>
+            </configuration>
             <executions>
                <execution>
                   <goals>

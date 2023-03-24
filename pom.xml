@@ -33,7 +33,7 @@
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>true</printFailingErrors>
                 <rulesets>
-                  <ruleset>PlsqlRule.xml</ruleset>
+                  <ruleset>JavaRule.xml</ruleset>
                </rulesets>
                
             </configuration>

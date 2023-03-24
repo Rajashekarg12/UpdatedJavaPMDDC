@@ -32,7 +32,7 @@
                <failOnViolation>true</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>true</printFailingErrors>
-               <maxAllowedViolations>746</maxAllowedViolations>
+               <maxAllowedViolations>745</maxAllowedViolations>
                 <rulesets>
                   <ruleset>JavaRule.xml</ruleset>
                </rulesets>

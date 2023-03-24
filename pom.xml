@@ -31,7 +31,7 @@
                <!-- failOnViolation is actually true by default, but can be disabled -->
                <failOnViolation>false</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
-               <printFailingErrors>false</printFailingErrors>
+               <printFailingErrors>true</printFailingErrors>
                         <rulesets>
                   <ruleset>JavaRule.xml</ruleset>
                </rulesets>

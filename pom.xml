@@ -32,7 +32,7 @@
                <failOnViolation>false</failOnViolation>
                <!-- printFailingErrors is pretty useful -->
                <printFailingErrors>false</printFailingErrors>
-           <minimumPriority>1</minimumPriority>
+           <minimumPriority>2</minimumPriority>
                 <rulesets>
                   <ruleset>JavaRule.xml</ruleset>
                </rulesets>

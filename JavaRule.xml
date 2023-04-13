@@ -12,4 +12,4 @@
   <rule ref="category/java/performance.xml" message="Rules that flag suboptimal code."></rule>
   <rule ref="category/java/security.xml" message="Rules that flag potential security flaws."></rule>
 </ruleset>
-//y
+
